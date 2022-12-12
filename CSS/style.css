@@ -1,0 +1,15 @@
+* {
+    border: 1px solid red;
+    font-family: 'Times New Roman', sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: #5BC0BE;
+}
+
+.navbar {
+    display: inline;
+    flex: auto;
+    justify-content: center;
+}
